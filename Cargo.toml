@@ -2,6 +2,12 @@
 name = "bevy-events-docs-creator"
 version = "0.1.0"
 edition = "2021"
+desciption = "Create event documentation for Bevy project"
+repository = "https://github.com/allevo/bevy-events-docs-creator"
+license = "MIT"
+keywords = ["bevy", "documentation", "event"]
+categories = ["command-line-utilities", "game-development"]
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

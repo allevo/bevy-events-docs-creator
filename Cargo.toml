@@ -2,7 +2,7 @@
 name = "bevy-events-docs-creator"
 version = "0.1.0"
 edition = "2021"
-desciption = "Create event documentation for Bevy project"
+description = "Create event documentation for Bevy project"
 repository = "https://github.com/allevo/bevy-events-docs-creator"
 license = "MIT"
 keywords = ["bevy", "documentation", "event"]

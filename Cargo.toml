@@ -14,8 +14,8 @@ categories = ["command-line-utilities", "game-development"]
 [dependencies]
 clap = { version = "3", features = ["derive"] }
 syn = { version = "1.0", features = ["full", "parsing", "extra-traits"] }
-glob = "*"
-markdown = "*"
+glob = "0.3"
+markdown = "0.3"
 
 [[bin]]
 name = "generate-bevy-events-doc"
